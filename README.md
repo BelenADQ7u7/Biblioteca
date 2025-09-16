@@ -2,4 +2,4 @@
 Agregar vistas html
 Agregar controladores
 Agregar HPPT Token
-BD con Orm
+Base de Datos con Orm
