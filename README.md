@@ -3,3 +3,4 @@ Agregar vistas html
 Agregar controladores
 Agregar HPPT Token
 Base de Datos con orm
+Agregar vistas con Bootstrap y Thymeleaf.
